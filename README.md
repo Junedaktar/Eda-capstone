@@ -1,1 +1,1 @@
-# Eda-capsttone
+# Eda-capstone
